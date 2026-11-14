@@ -101,9 +101,9 @@ cd terraform/envs/dev && terraform destroy
 
 | | |
 |---|---|
-| VPC resource map | ![VPC resource map](docs/screenshots/vpc-resource-map.png) |
-| Live application | ![Live page](docs/screenshots/live-page.png) |
-| Green pipeline run | ![GitHub Actions run](docs/screenshots/green-pipeline.png) |
+| VPC resource map | ![VPC resource map](docs/screenshots/vpc resource map.png) |
+| Live application | ![Live page](docs/screenshots/live page.png) |
+| Green pipeline run | ![GitHub Actions run](docs/screenshots/green pipeline.png) |
 
 ## Problems I ran into and what I learned
 
